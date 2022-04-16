@@ -1,0 +1,32 @@
+      .title-content {
+        /* set size */
+        font-size: 20px;
+      }
+      .name {
+        text-transform: uppercase;
+        color: red;
+        background-color: pink;
+        font-size: 40px;
+        font-weight: 600;
+        margin-bottom: 20px;
+      }
+      .content {
+        background-color: bisque;
+      }
+      
+     .first {
+        color: blue;
+        text-align: center;
+      }
+       .second {
+        color: red;
+        text-align: center;
+      }
+      .third {
+        color: green;
+        text-align: center;
+      }
+      .name,
+      .content {
+        text-align: center;
+      }
